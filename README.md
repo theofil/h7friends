@@ -1,5 +1,5 @@
 # h7friends
-Python script to create ROOT friend tree starting from a NANOAODSIM file.
+Python script to create ROOT friend tree starting from a NANOGEN file. For creating NANOGEN starting from GEN see the ```makeNanoGEN.py``` script for example, or refer to [https://github.com/kdlong/WMassNanoGen/blob/master/runCmsDriverGenToNanoGEN.sh](https://github.com/kdlong/WMassNanoGen/blob/master/runCmsDriverGenToNanoGEN.sh)
 
 Examples:
 
